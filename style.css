@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+}
+nav.navbar > div.container-fluid{
+    width: 70%;
+}
+div.title hr{
+    /* border-width: 5px; */
+    border: 2px solid;
+}
+#photoConteiner{
+    width: 100%
+}
+#imgCont{
+    /* width: 100%; */
+}
+#imgCont img{
+    max-width: 400px;
+    min-width: 400px;
+    max-height: 400px;
+    min-height: 400px;
+}
