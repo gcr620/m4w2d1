@@ -1,4 +1,4 @@
-let apiKey = "jcfkgYK9LXquzkThbWvP2fNjz5PvkFzEKRnAK4rDqgllOxYpdVu3Xb0A";
+let apiKey;
 let url = "https://api.pexels.com/v1/search?query=nature&per_page=4";
 let photosLi=[];
 let err = false;
